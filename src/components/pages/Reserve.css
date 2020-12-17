@@ -1,0 +1,12 @@
+Form {
+    background-color: #9bb2da;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+
+  div {
+    text-align: center;
+    color: black;
+  }
