@@ -4,9 +4,17 @@ Form {
     padding: 40px;
     font-family: Arial;
     text-align: center;
+    background-image: url('./reserve3.jpg');
   }
 
   div {
     text-align: center;
     color: black;
+       
   }
+
+  h1 {
+    color: navy;
+  }
+
+ 
