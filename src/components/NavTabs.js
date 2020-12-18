@@ -37,14 +37,7 @@ function NavTabs() {
           Reserve
         </Link>
       </li>
-      <li className="nav-item">
-        <Link
-          to="/reserve/booked"
-          className={location.pathname === "/reserve/booked" ? "nav-link active" : "nav-link"}
-        >
-          Booked
-        </Link>
-      </li>
+     
     </ul>
   );
 }
