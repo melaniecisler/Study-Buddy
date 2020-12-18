@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Form from 'react-input';
 import './Reserve.css';
 
+
 const INITIAL_STATE = {
   email: null,
   name: null,
@@ -23,14 +24,18 @@ class Reserve extends Component {
     return (
       
       <div>
-        <div>Email: {this.state.email}</div>
-        <div>Name: {this.state.name}</div>
-        <div>Topic: {this.state.topic}</div>
-        <div>Date: {this.state.date}</div>
-        <div>Time: {this.state.time}</div>
+        
+        <h1>Next Study Buddy Session</h1>
+        <div><strong>Email:</strong> {this.state.email}</div>
+        <div><strong>Name:</strong> {this.state.name}</div>
+        <div><strong>Topic:</strong> {this.state.topic}</div>
+        <div><strong>Date:</strong> {this.state.date}</div>
+        <div><strong>Time:</strong> {this.state.time}</div>
         <hr />
+        <h1>Make your study reservation now</h1>
         <Form
-          fields={[
+        
+        fields={[
             {
               name: 'Email',
               key: 'email',
@@ -72,7 +77,7 @@ class Reserve extends Component {
 
           })}
           
-        />
+          />
         
       </div>
     );
