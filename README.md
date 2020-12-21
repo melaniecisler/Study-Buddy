@@ -26,6 +26,6 @@ Run: Using Chrome or a favorite browser copy link
 
 Deployed: deploy locally 
 
-GitHub repo:
+GitHub repo: https://github.com/melaniecisler/Study-Buddy
 
 Authors and acknowledgment: Developed by Melanie Cisler, Cyrus Hanson, Ryan Tervo, Liban Esse, Yusuf Sharif 
