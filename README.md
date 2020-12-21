@@ -1,4 +1,4 @@
-# user-directory-reactapp
+# Study-Buddy
 
 ![](login.PNG)
 ![](reserve.PNG)
