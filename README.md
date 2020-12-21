@@ -16,10 +16,11 @@ Challenges:  Learning new technologies like socket.io and AuthO. Merging the fro
 Future development: Merged deployment, Heroku deployment, Live video chatting, creating tasks list, ability to create and drive/upload files, reservation persistance,  and reservation reminders.  
 
 Installation: clone repo
-    Front: npm install, npm i axios, npm i socket.io-client
-    Back: npm install, npm i socket.io, mongod
-clone repo and  'npm install' and 'npm start'
 
+   Front: npm install, npm i axios, npm i socket.io-client, npm start
+    
+   Back: npm install, npm i socket.io, mongod, npm start
+    
 Run: Using Chrome or a favorite browser copy link
     Front: https://localhost:3000/ 
     Back: https://localhost:8000/
