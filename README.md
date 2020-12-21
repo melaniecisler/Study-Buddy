@@ -1,7 +1,7 @@
 # Study-Buddy
 
 ![](login.png)
-![](reserve.PNG)
+![](reserve.png)
 
 ## User Story
 As a USER
